@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Avinash Verma</h1>
 <h3 align="center">A passionate developer from India</h3>
 
-<img align="right" alt="coding" width="400" src="C:\Users\avina\OneDrive\Pictures\20250311_085145.jpg">
+<img align="right" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPNsyw5Ek2A_6u2j65jVbNxLT_8g47FKWDAg&s">
 
 
 <p align="left"> <a href="https://twitter.com/avinashverma39" target="blank"><img src="https://img.shields.io/twitter/follow/avinashverma39?logo=twitter&style=for-the-badge" alt="avinashverma39" /></a> </p>
