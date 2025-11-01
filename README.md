@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Avinash Verma</h1>
-<h3 align="center">A passionate frontend software engineer from India</h3>
+<h3 align="center">A passionate  software engineer from India</h3>
 
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif">
 
