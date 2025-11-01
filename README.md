@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Avinash Verma</h1>
 <h3 align="center">A passionate developer from India</h3>
 
-<img align="right" alt="coding" width="400" src="<img width="540" height="540" alt="image" src="https://github.com/user-attachments/assets/3c84b368-00e5-4867-835a-c0a8c3292f25" />
-">
 
 
 <p align="left"> <a href="https://twitter.com/avinashverma39" target="blank"><img src="https://img.shields.io/twitter/follow/avinashverma39?logo=twitter&style=for-the-badge" alt="avinashverma39" /></a> </p>
