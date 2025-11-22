@@ -11,8 +11,9 @@ I am a Btech CSE Student. I love programming, writing, speaking and traveling.
 
 As a CSE Student, I enjoy using my obsessive attention to detail, my unequivocal love for making things that change the world. That's why I like to make things that make a difference.
 
+<img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/main/assets/coding.gif?raw=true" width="408" height="318" />
+  
 
- <img align="right" width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/ab68aedb-0c0c-4a08-b9f9-f48dde3a868f" />
 
 <!-- <p align="left"> <a href="https://twitter.com/avinashverma39" target="blank"><img src="https://img.shields.io/twitter/follow/avinashverma39?logo=twitter&style=for-the-badge" alt="avinashverma39" /></a> </p> -->
 
