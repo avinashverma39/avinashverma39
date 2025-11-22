@@ -14,8 +14,10 @@
 
 - 🌱 I’m currently learning **C++,HTML,CSS,JS,SQL**
 
-- 📫 How to reach me **avinashverma3939@gmail.com**
+- 📫 How to reach me avinashverma3939@gmail.com
 
+- 💌 Ask me about anything, I am happy to help;
+  
 - ⚡ Fun fact **I am Funny 😊**
 
 <!-- <h3 align="left">Connect with me:</h3>
