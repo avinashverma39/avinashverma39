@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Avinash Verma</h1>
 <h3 align="center">A passionate developer from India</h3>
 
+### <samp>&gt; Now Start <a href="www.linkedin.com/in/avinashverma39" target="_blank">Avinash Here</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> </samp>
+
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/avinashverma39)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/Gavinashverma39)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/avinash_verma_51/)
