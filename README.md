@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently working on **Portfolio**
 
-- 🌱 I’m currently learning **C++,HTML,CSS,JS,SQL**
+- 🌱 I’m currently learning  **C++,HTML,CSS,JS,SQL**
 
 - 📫 How to reach me avinashverma3939@gmail.com
 
